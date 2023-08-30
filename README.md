@@ -14,6 +14,6 @@ Projektna naloga je pripravljena v sklopu predmeta Računalniška orodja v matem
 6. Raziskala sem možne spremembe, ki bi lahko rešile ta problem.
 
 ### Posnetek predstavitve
-
+https://youtu.be/ET5TpAFcqRM
 
 Pripravila: *Teja Blažič*
