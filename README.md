@@ -1,7 +1,7 @@
 # Streljanje v ameriških šolah
 
 V svoji projektni nalogi sem analizirala enega največjih problemov, s katerim se sooča ameriška družba - strelski napadi v ameriških šolah. Osredotočila sem se na primerjavo med aktualnim letom in 
-preteklimi leti ter opravila primerjalno analizo z drugimi državami. Poleg tega sem preučila tudi vzroke, ki pripeljejo do takšnih napadov, vključno z družbenimi, psihološkimi in okoljskimi dejavniki. 
+preteklimi leti ter opravila primerjalno analizo z drugimi državami. Poleg tega sem preučila tudi vzroke, ki pripeljejo do tovrstnih napadov, vključno z družbenimi, psihološkimi in okoljskimi dejavniki. 
 
 Projektna naloga je pripravljena v sklopu predmeta Računalniška orodja v matematiki, pri katerem uporabljamo računalniški program _Mathematica_.
 
